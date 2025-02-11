@@ -1,4 +1,3 @@
-# PPIGameRPG
 # Souls of the Forgotten  
 RPG-игра в духе Dark Souls с открытым миром, сложными боями и нелинейным сюжетом.
 
