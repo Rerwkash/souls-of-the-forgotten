@@ -1,3 +1,2 @@
 def attack(enemy):  
-    if stamina > 0:  
-        enemy.health -= 10  
+    enemy.health -= 20  # Увеличен урон  
