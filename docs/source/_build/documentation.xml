@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<book>
+  <title>Souls of the Forgotten Documentation</title>
+  <chapter>
+    <title>Combat System</title>
+    <sect1>
+      <title>attack</title>
+      <programlisting>
+        <![CDATA[
+def attack(enemy):
+    """Выполняет атаку противника..."""
+    if stamina > 0:
+        enemy.health -= 20
+        ]]>
+      </programlisting>
+    </sect1>
+  </chapter>
+</book>
